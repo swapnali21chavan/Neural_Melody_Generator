@@ -1,0 +1,4 @@
+env/ 
+*.midi 
+*.mid 
+.ipynb_checkpoints/ 
