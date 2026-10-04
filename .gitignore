@@ -3,3 +3,5 @@ env/
 *.mid 
 .ipynb_checkpoints/ 
 data/ 
+!generated_melody_v1.mid 
+All projects tracker.ipynb 
