@@ -1,4 +1,6 @@
-   streamlit
-   torch
-   pretty_midi
-   numpy
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+torch
+pretty_midi
+numpy
+setuptools<81
